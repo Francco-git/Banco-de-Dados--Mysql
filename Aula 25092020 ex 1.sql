@@ -10,7 +10,7 @@ create table tb_funcionario
 
 select * from tb_cargo;
 
-select* from tb_funcionario;
+select * from tb_funcionario;
 
 insert into tb_cargo (comissao,departamento) values 
 	(150,"contabilidade"),
